@@ -11,4 +11,19 @@ Lightserver
 	|		|------cat
 	|		|
 	|		|------return_file
-	
+	|		
+	|-----status(status code)
+	|		|------headers  200
+	|		|
+	|		|------unimplemented 501
+	|		|
+	|		|------unfound 404
+	|   	|
+	|		|------internalerr 500
+	|		|
+	|		|------requesterr 400
+	|
+	|-----helper
+	|		|------get_line
+	|		|
+	|		|------error_detail
