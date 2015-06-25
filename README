@@ -18,7 +18,7 @@ Lightserver
 	|		|------unimplemented 501
 	|		|
 	|		|------unfound 404
-	|   	|
+	|        	|
 	|		|------internalerr 500
 	|		|
 	|		|------requesterr 400
