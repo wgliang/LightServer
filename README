@@ -1,0 +1,14 @@
+Lightserver
+	|---------------main
+	|
+	|-----lightserver
+	|		|------start  
+	|		|
+	|		|------accept 
+	|		|
+	|		|------cgi 
+	|		|
+	|		|------cat
+	|		|
+	|		|------return_file
+	
