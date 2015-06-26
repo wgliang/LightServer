@@ -12,13 +12,13 @@ Lightserver
 	|	|
 	|	|------return_file
 	|		
-	|-----status(status code)
+	|-----status
 	|	|------headers  200
 	|	|
 	|	|------unimplemented 501
 	|	|
 	|	|------unfound 404
-	|       |
+	|   |
 	|	|------internalerr 500
 	|	|
 	|	|------requesterr 400
