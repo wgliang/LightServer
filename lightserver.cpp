@@ -1,3 +1,4 @@
+#include "lightserver.h"
 int start(short *port) {
 	int server_fd = 0;
 	struct sockaddr_in server_name;

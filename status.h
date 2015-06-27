@@ -17,5 +17,9 @@
 
 void headers(int client, const char *file_name);
 
+void unimplemented(int client);
 
+void unfound(int client);
+
+void request_error(int client);
 #endif
