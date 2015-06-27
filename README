@@ -1,9 +1,11 @@
+
 项目名称：简单的Http服务器
 
 项目用途：个人学习
 
 项目开发环境：Linux 3.16.0 GCC 4.9.1
 
+程序的函数图：
 
 Lightserver
 	|---------------main
@@ -25,7 +27,7 @@ Lightserver
 	|	|------unimplemented 501
 	|	|
 	|	|------unfound 404
-	|   |
+	|       |
 	|	|------internalerr 500
 	|	|
 	|	|------requesterr 400
